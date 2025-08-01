@@ -1,16 +1,23 @@
-## Hi there 👋
+ Sou estudante de desenvolvimento de sistema na Escola Senai Anchieta e Faculdade Senai São Paulo - Campus Anchieta - Vila Mariana.
+  <br>
+ 
+  <strong>Interesses </strong>
+  <br> . 🤔 Explorando novas tecnologias e desenvolvendo soluções de software
+  
+</p>
 
-<!--
-**Lauragiovanaz/Lauragiovanaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  💻 <strong>Conhecimento:</strong> Python, Java, CSS e HTML
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  ⚙️ <strong>Ferramentas:</strong> Databricks, VSCode, Power BI e Intellij
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  💌 <strong>Contate-me:</strong> ⤵️
+</p>
+
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=tejo.lgiovanaz0103@gmail.com.com&quot; alt="Gmail"/></a>
