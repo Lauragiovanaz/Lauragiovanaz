@@ -3,6 +3,7 @@
  
   <strong>Interesses </strong>
   <br> 🤔 Explorando novas tecnologias e desenvolvendo soluções de software
+  Futura Devescope
   
 </p>
 
@@ -11,6 +12,6 @@
 </p>
 
 <p align="left">
-  ⚙️ <strong>Ferramentas:</strong> Databricks, VSCode, Power BI e Intellij
+  ⚙️ <strong>Ferramentas:</strong>VSCode e Intellij
 </p>
 
