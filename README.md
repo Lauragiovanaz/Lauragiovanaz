@@ -14,9 +14,3 @@
   ⚙️ <strong>Ferramentas:</strong> Databricks, VSCode, Power BI e Intellij
 </p>
 
-<p align="left">
-  💌 <strong>Contate-me:</strong> ⤵️
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=tejo.lgiovanaz0103@gmail.com&quot; alt="Gmail"/></a>
